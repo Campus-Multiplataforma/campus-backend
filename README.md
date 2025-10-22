@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/favicon.png" width="120" alt="CMS Logo" />
+  <img src="./assets/favicon.png" width="120" alt="CMS Logo" />
 </p>
 
 <p align="center">A role-based content management system API built with <a href="http://nestjs.com" target="_blank">NestJS</a>, PostgreSQL, and JWT authentication.</p>
